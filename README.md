@@ -1,2 +1,0 @@
-# microfrontend
-Treinamento de Microfrontend
